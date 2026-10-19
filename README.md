@@ -7,3 +7,4 @@
 * GPT stands for generative, pre-trained, transform model.
 * LLMs main mechanism is prediction and generate answers based on learn patterns.
 * As a pure LLM without external help it cannot tell live temperature as it it not present in its training data.
+* To talk to a model, we need an API key.
